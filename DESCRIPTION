@@ -1,0 +1,13 @@
+Package: precision.data
+Type: Package
+Title: Dataset for precision.seq
+Version: 0.1.0
+Authors@R: as.person(c( 
+    "Li-Xuan Qin <qinl@mskcc.org> [aut, ths]",
+    "Jian Zou <jian.zou@pitt.edu> [aut, cre]"
+  ))
+Description: This is the package including all the dataset used for R package precision.seq.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
