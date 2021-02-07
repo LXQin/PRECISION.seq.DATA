@@ -6,8 +6,8 @@ Authors@R: as.person(c(
     "Li-Xuan Qin <qinl@mskcc.org> [aut, ths]",
     "Jian Zou <jian.zou@pitt.edu> [aut, cre]"
   ))
-Description: This is the package including all the dataset used for R package precision.seq.
-License: GPL-2
+Description: This is the package including all the datasets used for R package precision.seq.
+License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
